@@ -7,6 +7,9 @@ Objective-
 ![Screenshot 2024-04-13 023612](https://github.com/Nachiket1531/Ecommerce-Sales-Dashboard-PowerBI-/assets/166250647/3583282c-1b01-4143-886f-26832b68cb93)
 
 
+
+Project Learning 
+
 • Created interactive dashboard to track and analyze online sales data
 
 • Used complex parameters to drill down in worksheet and customization using filters and slicers
